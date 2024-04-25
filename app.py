@@ -5,6 +5,7 @@ st.set_page_config(layout="wide")
 
 
 st.title('Statistics')
+st.info('Nuestro objetivo es mejorar la ciencia latinoamericana, apoyando en el correcto análisis estadístico y el diseño de proyectos así como la formación de recursos humanos')
 
 
 col1,col2,col3=st.columns([2,2,1])
